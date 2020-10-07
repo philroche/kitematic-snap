@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.1
+Name=kitematic
+Comment=Simple Docker Container management for Mac OS X, Windows and Ubuntu.
+GenericName=Kitematic
+Icon=${SNAP}/usr/share/pixmaps/kitematic-snap.png
+Exec=kitematic %U
+Categories=Utility;
